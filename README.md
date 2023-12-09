@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Sangmin+Lee&font=Redressed&size=30)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmin2dev%2F&count_bg=%23FF5252&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
-[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangmin2dev)](https://solved.ac/rlgns0705)
 
 <samp>I'm Sangmin Lee, a **Server Developer** using java/spring. You can call me **Sangmin**!<br>
