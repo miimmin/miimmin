@@ -7,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/018c4e0b-bfee-4c84-b84d-4a8a3df18636.svg)](https://wakatime.com/@018c4e0b-bfee-4c84-b84d-4a8a3df18636)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangmin2dev)](https://solved.ac/rlgns0705)
 
-<samp>I'm Sangmin Lee, a **Server Developer** using java/spring. You can call me **Sangmin**! I 🩵 development because it's like assembling Lego. It's my dream to make people 😊😌😁😆🤑🤩😍 by making **cool software** like ✨**Lego castle**✨ <br><br>
+<samp>I'm Sangmin Lee, a **Server Developer** using java/spring. You can call me **Sangmin**! I 🩵 development because it's like assembling Lego. It's my dream to make people 😊😁😆🤤🤑🤩😍 by making **cool software** like ✨**Lego castle**✨ <br><br>
 
 I'm always open, so feel free to contact me 😉
 
