@@ -1,7 +1,7 @@
 
 <img src="./image/profile.png" align="right" height="300"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&background=0D1117&width=160&lines=Sangmin+Lee&font=Redressed&size=30&duration=2000&pause=800)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&background=0D1117&height=35&width=145&lines=Sangmin+Lee&font=Redressed&size=30&duration=2000&pause=1000&vCenter=true)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmin2dev%2F&count_bg=%23FF5252&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018c4e0b-bfee-4c84-b84d-4a8a3df18636.svg)](https://wakatime.com/@018c4e0b-bfee-4c84-b84d-4a8a3df18636)
