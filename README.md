@@ -24,6 +24,7 @@ I'm always open, so feel free to contact me 😉
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
 
+
 <br>
 <h3> 🥑 Git Stats 🥑 </h3>
 
