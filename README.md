@@ -31,6 +31,6 @@ I'm always open, so feel free to contact me 😉
   <img src="https://github-readme-stats.vercel.app/api?username=sangmin2dev&theme=highcontrast&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&exclude_repo=resume,tech-blog,CMIT_Project,LinuxClass&layout=compact&theme=highcontrast" width="32%"/>
 </a>
 
