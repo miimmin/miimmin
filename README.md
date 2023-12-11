@@ -15,7 +15,7 @@ I'm always open, so feel free to contact me 😉
 <a href="sangmin2dev@gmail.com"><img src="https://img.shields.io/badge/sangmin2dev@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"></a>
 
 <br>
-<h3>☀ Tech Stack ☀️</h3>
+<h3> 🍏 Tech Stack 🍏 </h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
@@ -24,7 +24,7 @@ I'm always open, so feel free to contact me 😉
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
 
-<!-- <h3> ⭐️ Git Stats ⭐️ </h3>
+<h3> 🥑 Git Stats 🥑 </h3>
  <a href="s"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sangmin2dev&theme=highcontrast&show_icons=true" width="42%" />
 </a> 
@@ -32,4 +32,6 @@ I'm always open, so feel free to contact me 😉
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&exclude_repo=resume,tech-blog,CMIT_Project,LinuxClass&layout=compact&theme=highcontrast" width="32%"/>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sangmin2dev&title=Commit,PullRequest,Repositories,MultipleLang,Organizations&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy) --> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sangmin2dev&title=Commit,PullRequest,Repositories,MultipleLang,Organizations&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
+
+<h3> 🍉 Git Stats 🔥 </h3>
