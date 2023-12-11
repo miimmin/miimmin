@@ -24,14 +24,35 @@ I'm always open, so feel free to contact me 😉
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
 
+
 <h3> 🥑 Git Stats 🥑 </h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=vue)
+
+
+
+
+<!--
+<a href="https://opgc.me/#/users/sangmin2dev" target="_blank"><img src="https://api.opgc.me/githubs/users/sangmin2dev/tag/?theme=basic" /></a>
+
  <a href="s"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sangmin2dev&theme=highcontrast&show_icons=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sangmin2dev&theme=highcontrast&show_icons=true" width="42%" />
 </a> 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&exclude_repo=resume,tech-blog,CMIT_Project,LinuxClass&layout=compact&theme=highcontrast" width="32%"/>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sangmin2dev&title=Commit,PullRequest,Repositories,MultipleLang,Organizations&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sangmin2dev&title=Commit,PullRequest,Repositories,MultipleLang,Organizations&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
-<h3> 🍉 Git Stats 🔥 </h3>
+<!--<h3> 🥥 Solved.ac Profile 🥥 </h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin2dev)](https://solved.ac/sangmin2dev/)
+-->
+
+
