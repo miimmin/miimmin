@@ -26,11 +26,9 @@ I'm always open, so feel free to contact me 😉
 
 <br>
 <h3>☀ Git Stats ☀️</h3>
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sangmin2dev&theme=highcontrast&show_icons=true" width="42%" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&exclude_repo=resume,tech-blog,CMIT_Project,LinuxClass&layout=compact&theme=highcontrast" width="32%"/>
-</a>
-
+<!-- <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmin2dev&exclude_repo=resume,tech-blog,CMIT_Project,LinuxClass&layout=compact&theme=highcontrast" width="32%"/> -->
+<!-- </a> -->
