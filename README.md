@@ -27,13 +27,9 @@ I'm always open, so feel free to contact me 😉
 
 <h3> 🥑 Git Stats 🥑 </h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmin2dev&theme=nord_dark)
+
 
 
 
