@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangmin2dev%2F&count_bg=%23FF5252&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018c4e0b-bfee-4c84-b84d-4a8a3df18636.svg)](https://wakatime.com/@018c4e0b-bfee-4c84-b84d-4a8a3df18636)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangmin2dev)](https://solved.ac/rlgns0705)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sangmin2dev)](https://solved.ac/sangmin2dev)
 
 <samp>I'm Sangmin Lee, a **Server Developer** using java/spring. You can call me **Sangmin**! I'm interested in **Spring Framework Ecosystem, Object-Oriented Software Design Patterns, RDBMS for Performance & Data Management, DevOps across Development-Distribution-Production** These days.  I 🩵 development because it's like assembling Lego. It's my dream to make people 😊😁😆🤤🤑🤩😍 by making **cool software** like ✨**Lego castle**✨ <br><br>
 
