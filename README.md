@@ -35,6 +35,8 @@ I'm always open, so feel free to contact me 😉
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangmin2dev&theme=nord_dark&exclude=C++,)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sangmin2dev&title=Commit,PullRequest,Repositories,MultipleLang,Organizations,Experience,Issues&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!--
 <a href="https://opgc.me/#/users/sangmin2dev" target="_blank"><img src="https://api.opgc.me/githubs/users/sangmin2dev/tag/?theme=basic" /></a>
 
  <a href="s"> 
@@ -48,6 +50,6 @@ I'm always open, so feel free to contact me 😉
 <h3> 🥥 Solved.ac Profile 🥥 </h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangmin2dev)](https://solved.ac/sangmin2dev/)
-
+-->
 
 
